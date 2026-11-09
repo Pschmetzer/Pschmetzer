@@ -38,12 +38,17 @@ const patrick = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://nexentriumtech.com"><img src="assets/shots/nexentrium.jpg" alt="Nexentrium" width="100%"></a>
       <h4><a href="https://nexentriumtech.com">Nexentrium</a> · agency infrastructure</h4>
       <sub>Software platforms, automation and digital products for agencies and creators.</sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <a href="https://www.modelsuite.ai"><img src="assets/shots/modelsuite.jpg" alt="ModelSuite" width="100%"></a>
+      <h4><a href="https://www.modelsuite.ai">ModelSuite</a> · agency OS</h4>
+      <sub>The platform for model and creator agencies – talent, content and operations in one place.</sub>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://kadrana.com"><img src="assets/shots/kadrana.jpg" alt="Kadrana" width="100%"></a>
       <h4><a href="https://kadrana.com">Kadrana</a> · the workforce operating system</h4>
       <sub>Hiring, tasks, shifts, check-ups, reports, pay and communication on one record for distributed teams.</sub>
