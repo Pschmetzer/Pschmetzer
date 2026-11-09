@@ -39,17 +39,17 @@ const patrick = {
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://nexentriumtech.com/en"><img src="assets/shots/nexentrium.jpg" alt="Nexentrium" width="100%"></a>
+      <a href="https://nexentriumtech.com/en"><img src="assets/shots/nexentrium-en.jpg" alt="Nexentrium" width="100%"></a>
       <h4><a href="https://nexentriumtech.com/en">Nexentrium</a> · agency infrastructure</h4>
       <sub>Software platforms, automation and digital products for agencies and creators.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://modelsuite.ai/en"><img src="assets/shots/modelsuite.jpg" alt="ModelSuite" width="100%"></a>
+      <a href="https://modelsuite.ai/en"><img src="assets/shots/modelsuite-en.jpg" alt="ModelSuite" width="100%"></a>
       <h4><a href="https://modelsuite.ai/en">ModelSuite</a> · agency OS</h4>
       <sub>The platform for model and creator agencies – talent, content and operations in one place.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://kadrana.com/en"><img src="assets/shots/kadrana.jpg" alt="Kadrana" width="100%"></a>
+      <a href="https://kadrana.com/en"><img src="assets/shots/kadrana-en.jpg" alt="Kadrana" width="100%"></a>
       <h4><a href="https://kadrana.com/en">Kadrana</a> · the workforce operating system</h4>
       <sub>Hiring, tasks, shifts, check-ups, reports, pay and communication on one record for distributed teams.</sub>
     </td>
@@ -61,34 +61,34 @@ const patrick = {
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://perchtree.vip"><img src="assets/shots/perchtree.jpg" alt="Perchtree" width="100%"></a>
+      <a href="https://perchtree.vip"><img src="assets/shots/perchtree-en.jpg" alt="Perchtree" width="100%"></a>
       <h4><a href="https://perchtree.vip">Perchtree</a></h4>
       <sub>One elegant link for everything you create – short links, scheduled drops, own domain, privacy-friendly stats.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://perchreel.pro"><img src="assets/shots/perchreel.jpg" alt="Perchreel" width="100%"></a>
+      <a href="https://perchreel.pro"><img src="assets/shots/perchreel-en.jpg" alt="Perchreel" width="100%"></a>
       <h4><a href="https://perchreel.pro">Perchreel</a></h4>
       <sub>Finds the reels taking off for creators right now and reshoots them with your persona – rendered on your Mac.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://perchcast.pro/en"><img src="assets/shots/perchcast.jpg" alt="Perchcast" width="100%"></a>
+      <a href="https://perchcast.pro/en"><img src="assets/shots/perchcast-en.jpg" alt="Perchcast" width="100%"></a>
       <h4><a href="https://perchcast.pro/en">Perchcast</a></h4>
       <sub>Telegram channels that run themselves – planned, written and posted in your persona's voice.</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://perchads.pro/en"><img src="assets/shots/perchads.jpg" alt="Perchads" width="100%"></a>
+      <a href="https://perchads.pro/en"><img src="assets/shots/perchads-en.jpg" alt="Perchads" width="100%"></a>
       <h4><a href="https://perchads.pro/en">Perchads</a></h4>
       <sub>Ads that test and improve themselves across Google, Meta, TikTok and Pinterest. Budget follows the winners.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://www.perchscope.pro/en"><img src="assets/shots/perchscope.jpg" alt="Perchscope" width="100%"></a>
+      <a href="https://www.perchscope.pro/en"><img src="assets/shots/perchscope-en.jpg" alt="Perchscope" width="100%"></a>
       <h4><a href="https://www.perchscope.pro/en">Perchscope</a></h4>
       <sub>SEO cockpit: rankings, traffic and technical health of your sites, prepared every morning.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://perchestate.pro"><img src="assets/shots/perchestate.jpg" alt="Perchestate" width="100%"></a>
+      <a href="https://perchestate.pro"><img src="assets/shots/perchestate-en.jpg" alt="Perchestate" width="100%"></a>
       <h4><a href="https://perchestate.pro">Perchestate</a></h4>
       <sub>Virtual staging for real estate – furnish empty rooms, clear cluttered ones, every image labelled.</sub>
     </td>
