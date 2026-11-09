@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.modelsuite.ai"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=FF2D55&center=true&vCenter=true&width=640&lines=Building+Nexentrium+%26+ModelSuite.ai;Automating+the+boring+parts+of+creator+businesses;Shipping+small+tools+that+save+time+%26+money" alt="Typing intro"></a>
+  <a href="https://modelsuite.ai/en"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=FF2D55&center=true&vCenter=true&width=640&lines=Building+Nexentrium+%26+ModelSuite.ai;Automating+the+boring+parts+of+creator+businesses;Shipping+small+tools+that+save+time+%26+money" alt="Typing intro"></a>
 </p>
 
 <p align="center">
-  <a href="https://nexentriumtech.com"><img src="https://img.shields.io/badge/Nexentrium-0D0D12?style=for-the-badge&logoColor=white" alt="Nexentrium"></a>
-  <a href="https://www.modelsuite.ai"><img src="https://img.shields.io/badge/ModelSuite.ai-FF2D55?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ModelSuite.ai"></a>
+  <a href="https://nexentriumtech.com/en"><img src="https://img.shields.io/badge/Nexentrium-0D0D12?style=for-the-badge&logoColor=white" alt="Nexentrium"></a>
+  <a href="https://modelsuite.ai/en"><img src="https://img.shields.io/badge/ModelSuite.ai-FF2D55?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ModelSuite.ai"></a>
   <a href="https://www.linkedin.com/in/patrickschmetzer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/Based_in-Germany-111111?style=for-the-badge" alt="Germany">
 </p>
@@ -33,24 +33,24 @@ const patrick = {
 ### 🌐 The Nexentrium ecosystem
 
 <p align="center">
-  <a href="https://nexentriumtech.com"><img src="assets/ecosystem.svg" alt="Nexentrium ecosystem: ModelSuite, Kadrana, Perchtree, Perchreel, Perchcast, Perchads, Perchscope, Perchestate" width="100%"></a>
+  <a href="https://nexentriumtech.com/en"><img src="assets/ecosystem.svg" alt="Nexentrium ecosystem: ModelSuite, Kadrana, Perchtree, Perchreel, Perchcast, Perchads, Perchscope, Perchestate" width="100%"></a>
 </p>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://nexentriumtech.com"><img src="assets/shots/nexentrium.jpg" alt="Nexentrium" width="100%"></a>
-      <h4><a href="https://nexentriumtech.com">Nexentrium</a> · agency infrastructure</h4>
+      <a href="https://nexentriumtech.com/en"><img src="assets/shots/nexentrium.jpg" alt="Nexentrium" width="100%"></a>
+      <h4><a href="https://nexentriumtech.com/en">Nexentrium</a> · agency infrastructure</h4>
       <sub>Software platforms, automation and digital products for agencies and creators.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://www.modelsuite.ai"><img src="assets/shots/modelsuite.jpg" alt="ModelSuite" width="100%"></a>
-      <h4><a href="https://www.modelsuite.ai">ModelSuite</a> · agency OS</h4>
+      <a href="https://modelsuite.ai/en"><img src="assets/shots/modelsuite.jpg" alt="ModelSuite" width="100%"></a>
+      <h4><a href="https://modelsuite.ai/en">ModelSuite</a> · agency OS</h4>
       <sub>The platform for model and creator agencies – talent, content and operations in one place.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://kadrana.com"><img src="assets/shots/kadrana.jpg" alt="Kadrana" width="100%"></a>
-      <h4><a href="https://kadrana.com">Kadrana</a> · the workforce operating system</h4>
+      <a href="https://kadrana.com/en"><img src="assets/shots/kadrana.jpg" alt="Kadrana" width="100%"></a>
+      <h4><a href="https://kadrana.com/en">Kadrana</a> · the workforce operating system</h4>
       <sub>Hiring, tasks, shifts, check-ups, reports, pay and communication on one record for distributed teams.</sub>
     </td>
   </tr>
@@ -68,23 +68,23 @@ const patrick = {
     <td width="33%" valign="top">
       <a href="https://perchreel.pro"><img src="assets/shots/perchreel.jpg" alt="Perchreel" width="100%"></a>
       <h4><a href="https://perchreel.pro">Perchreel</a></h4>
-      <sub>Turn one clip into a batch of unique short-form video variations, rendered on your Mac.</sub>
+      <sub>Finds the reels taking off for creators right now and reshoots them with your persona – rendered on your Mac.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://perchcast.pro"><img src="assets/shots/perchcast.jpg" alt="Perchcast" width="100%"></a>
-      <h4><a href="https://perchcast.pro">Perchcast</a></h4>
+      <a href="https://perchcast.pro/en"><img src="assets/shots/perchcast.jpg" alt="Perchcast" width="100%"></a>
+      <h4><a href="https://perchcast.pro/en">Perchcast</a></h4>
       <sub>Telegram channels that run themselves – planned, written and posted in your persona's voice.</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://perchads.pro"><img src="assets/shots/perchads.jpg" alt="Perchads" width="100%"></a>
-      <h4><a href="https://perchads.pro">Perchads</a></h4>
+      <a href="https://perchads.pro/en"><img src="assets/shots/perchads.jpg" alt="Perchads" width="100%"></a>
+      <h4><a href="https://perchads.pro/en">Perchads</a></h4>
       <sub>Ads that test and improve themselves across Google, Meta, TikTok and Pinterest. Budget follows the winners.</sub>
     </td>
     <td width="33%" valign="top">
-      <a href="https://www.perchscope.pro"><img src="assets/shots/perchscope.jpg" alt="Perchscope" width="100%"></a>
-      <h4><a href="https://www.perchscope.pro">Perchscope</a></h4>
+      <a href="https://www.perchscope.pro/en"><img src="assets/shots/perchscope.jpg" alt="Perchscope" width="100%"></a>
+      <h4><a href="https://www.perchscope.pro/en">Perchscope</a></h4>
       <sub>SEO cockpit: rankings, traffic and technical health of your sites, prepared every morning.</sub>
     </td>
     <td width="33%" valign="top">
