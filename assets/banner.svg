@@ -39,8 +39,8 @@
   <g class="t">
     <text class="fade d1" x="70" y="108" fill="#ff2d55" font-size="18" font-weight="600" letter-spacing="4">FOUNDER · BUILDER · AUTOMATION</text>
     <text class="fade d2" x="66" y="186" fill="url(#txt)" font-size="74" font-weight="800" letter-spacing="-2">Patrick Schmetzer</text>
-    <text class="fade d3" x="70" y="234" fill="#c9c9d1" font-size="24">Founder &amp; CEO of <tspan fill="#ffffff" font-weight="700">ModelSuite.ai</tspan></text>
-    <text class="fade d3" x="70" y="268" fill="#8b8b96" font-size="20">SaaS, AI &amp; automation for creators and agencies</text>
+    <text class="fade d3" x="70" y="234" fill="#c9c9d1" font-size="24">Founder of <tspan fill="#ffffff" font-weight="700">Nexentrium</tspan> · <tspan fill="#ffffff" font-weight="700">ModelSuite.ai</tspan></text>
+    <text class="fade d3" x="70" y="268" fill="#8b8b96" font-size="20">Software, automation &amp; AI products for creators, agencies and teams</text>
     <g class="fade d4" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">
       <rect x="70" y="298" width="392" height="40" rx="10" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
       <text x="88" y="324" fill="#ff2d55">$</text>
